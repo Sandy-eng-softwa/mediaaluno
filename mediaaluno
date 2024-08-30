@@ -1,0 +1,14 @@
+A = 5.0
+B = 7.1
+media = ((A * 3.5) + (B * 7.5)) / 11
+print(f"MEDIA = {media:.5f}")
+
+A = 0.0
+B = 7.1
+media = ((A * 3.5) + (B * 7.5)) / 11
+print(f"MEDIA = {media:.5f}")
+
+A = 10.0
+B = 10.0
+media = ((A * 3.5) + (B * 7.5)) / 11
+print(f"MEDIA = {media:.5f}")
